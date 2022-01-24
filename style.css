@@ -38,3 +38,61 @@ body{
     left: 173px;
     padding: 0px 9px;
 }
+.images-convention{
+    width: 50%;
+}
+footer{
+    background-color:rgba(11, 13, 23, 1);
+    color: white;
+}
+footer>p {
+    font-size: 13px;
+    padding-top: 200px;
+    padding-left: 200px;
+}
+.apple{
+    width: 187px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    padding: 6px;
+}
+.apple i{
+    font-size: 40px;
+}
+.apple a{
+    text-decoration: none;
+    color: white;
+}
+.apple>div>a>p{
+    font-size: 13px;
+    line-height: 0px;
+    padding-left: 10px;
+    padding-top: 8px;
+}
+
+
+
+.google-play {
+    width: 187px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    padding: 5px;
+}
+.google-play  i{
+    font-size: 40px;
+    color: #f2cdaa;
+}
+.google-play>div>a>p{
+    font-size: 13px;
+    line-height: 0px;
+    padding-left: 10px;
+    padding-top: 8px;
+}
+.google-play a{
+    text-decoration: none;
+    color: white;
+}
+.footer-class{
+    margin-left: 1118px;
+    margin-top: -110px;
+}
